@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../i2c_oled_demo"
+		},
+		{
+			"name": "stepper_driver",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
